@@ -5,8 +5,19 @@
  ?>
 <!DOCTYPE html>
 <html style="background-color:#430909!important">
-
     <head>
+    	<!-- #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+# -->
+    	<!--
+    		
+    	{/AW/} 100% [EDM] MusicArtist (Web Developer +Media Designer)
+    		
+    	LOOPSHAPE.DE ■ Personal Website / wellenwert@gmail.com 
+    	Autor: Aris Arjuna Noorsanto aka. AVERION LOOPSHAPE WELLENWERT MEGATERIOS
+    	
+    	http://loopshape.de/
+    	
+    	-->
+    	<!-- #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+# -->
         <!-- Site made with Mobirise Website Builder v4.11.4, https://mobirise.com -->
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,9 +29,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
         <link rel="shortcut icon" href="assets/images/79520508-1085297831809772-6659497585627014790-n-128x128.png" type="image/x-icon">
         <meta name="description" content="">
-
         <title>ABOUT :: LOOPSHAPE</title>
-
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css">
         <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
         <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">

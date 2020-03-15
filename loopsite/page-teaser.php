@@ -2,10 +2,10 @@
 /*
  * TEASER
  */
-$request = ' |';
-$connect = ' +';
-$volt = ': - :';
-$ampere = ': + :';
+$request = " |";
+$connect = " +";
+$volt = ": - :";
+$ampere = ": + :";
 $location = new DateTime();
 ?>
 <input type="text" id="commandline" class="inputfield">
@@ -20,7 +20,7 @@ $location = new DateTime();
                 <br>
                 <img src="/assets/images/AW100.Website.Logo.v1.01a.png" class="imagecenter" id="awlogo"></h1>
                 <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2"><strong> The Energy of Loopshape</strong><strong> </strong></h3>
-                <input type="text" id="commandline" class="writearea cmd" value="<?php echo $connect; echo $request ?> : ■ : | <?php echo $location->format('Y-m-d\TH:i:s.u') ?> | <?php echo $volt; echo $request ?>">
+                <input type="text" id="commandline" class="writearea cmd" value="<?php echo $connect; echo $request ?> : ■ : | <?php echo $location->format("Y-m-d\TH:i:s.u") ?> | <?php echo $volt; echo $request ?>">
                 <br>
                 <br>
                 <br>

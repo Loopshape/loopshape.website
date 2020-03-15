@@ -31,10 +31,10 @@
                         <a class="nav-link link text-primary display-4" href="/about.php" target="_top" style="position:relative;top:0;right:-20px;font-size:1.4em!important"><span class="mbrib-preview mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41);"></span> ABOUT ME</a>
                     </li>
                     <li>
-                        <a class="nav-link link text-primary display-4" href="/impressum.php" target="_top" style="position:relative;top:-4px;right:-15px;font-size:1.4em!important"><span class="mbri-paper-plane mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41)"></span> POLICY</a>
+                        <a class="nav-link link text-primary display-4" href="/impressum.php" target="_top" style="position:relative;top:-4px;right:-15px;font-size:1.4em!important"><span class="mbri-globe mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41)"></span> POLICY</a>
                     </li>
                     <li>
-                        <a class="nav-link link text-primary display-4" href="/privacy.php" target="_top" style="position:relative;top:-4px;right:0;font-size:1.4em!important"><span class="mbri-paper-plane mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41)"></span> PRIVACY</a>
+                        <a class="nav-link link text-primary display-4" href="/privacy.php" target="_top" style="position:relative;top:-4px;right:0;font-size:1.4em!important"><span class="mbri-like mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41)"></span> PRIVACY</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link link text-primary display-4" href="https://www.paypal.com/paypalme2/customeract" target="_blank" style="position:relative;top:0;right:5px;font-size:1.4em!important"><span class="mbri-cash mbr-iconfont mbr-iconfont-btn" style="color: rgb(42, 171, 41);"></span> DONATE</a>

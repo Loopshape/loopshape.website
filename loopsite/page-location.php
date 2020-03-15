@@ -31,10 +31,10 @@
                     <strong>Links</strong>
                     <br>
                     <br>
-                    <strong><a href="https://aw100-edm.bandcamp.com/" target="_blank" class="text-info">BANDCAMP</a></strong>
-                    <strong><a href="https://soundcloud.com/aw100-edm/tracks" target="_blank" class="text-info">SOUNDCLOUD</a></strong>
-                    <br>
-                    <br>
+                    <strong><a href="https://aw100-edm.bandcamp.com/" target="_blank" class="text-info">BANDCAMP</a></strong><br>
+                    <strong><a href="https://soundcloud.com/aw100-edm/tracks" target="_blank" class="text-info">SOUNDCLOUD</a></strong><br>
+                    <strong><a href="https://hearthis.at/wonderworld/#tracks" target="_blank" class="text-info">HEARTHIS</a></strong><br>
+                    <strong><a href="https://www.mixcloud.com/averion/favorites/" target="_blank" class="text-info">MIXCLOUD</a></strong><br>
                     <br>
                     <strong>Feedback</strong>
                     <br>

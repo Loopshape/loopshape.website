@@ -6,6 +6,18 @@
 <!DOCTYPE html>
 <html style="background-color:#430909!important">
     <head>
+        <!-- #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+# -->
+    	<!--
+    		
+    	{/AW/} 100% [EDM] MusicArtist (Web Developer +Media Designer)
+    		
+    	LOOPSHAPE.DE ■ Personal Website / wellenwert@gmail.com 
+    	Autor: Aris Arjuna Noorsanto aka. AVERION LOOPSHAPE WELLENWERT MEGATERIOS
+    	
+    	http://loopshape.de/
+    	
+    	-->
+    	<!-- #+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+#+# -->
         <!-- Site made with Mobirise Website Builder v4.11.4, https://mobirise.com -->
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">

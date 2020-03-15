@@ -205,7 +205,6 @@ include "./loopsite/page-navigator_about.php";
         <br>
         <br>
     </div>
-
 </section>
 <?php
 include "./loopsite/page-footercontext.php";

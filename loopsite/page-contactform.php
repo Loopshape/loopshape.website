@@ -49,7 +49,7 @@
                     </div>
                     <span class="gdpr-block"> <label> <span class="textGDPR" style="color: #879a9f">
                                 <input type="checkbox" name="gdpr" id="gdpr-form1-d" required="">
-                                By continuing you agree to our <a style="color: #149dcc; text-decoration: underline;" href="/terms.php">Terms of Service</a> and <a style="color: #149dcc; text-decoration: underline;" href="/policy.php">Privacy Policy</a>.</span> </label> </span>
+                                By continuing you agree to our <a style="color: #149dcc; text-decoration: underline;" href="/impressum.php" target="_top">Terms of Service</a> and <a style="color: #149dcc; text-decoration: underline;" href="/privacy.php" target="_top">Privacy Policy</a>.</span> </label> </span>
                 </form>
             </div>
         </div>
