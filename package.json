@@ -1,0 +1,28 @@
+{
+  "name": "loopshape",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loopshape/loopshape.website.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "webscreen.designer@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Loopshape/loopshape.website/issues"
+  },
+  "homepage": "https://github.com/Loopshape/loopshape.website#readme",
+  "dependencies": {
+    "backbone": "^1.4.0",
+    "grunt": "^1.0.4",
+    "gulp": "^4.0.2",
+    "jquery2": "^2.0.3-a"
+  }
+}
