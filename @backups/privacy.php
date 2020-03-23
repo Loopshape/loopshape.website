@@ -145,10 +145,10 @@
                     <br>
                     You can find more information about cookies at:
                     <br>
+                    <br>
                     <a href="//allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>
                     <br>
                     <a href="//youronlinechoices.eu" target="_blank">www.youronlinechoices.eu</a>
-                    <br>
                     <br>
                     For a video about cookies visit a look at cookies
                     <br>

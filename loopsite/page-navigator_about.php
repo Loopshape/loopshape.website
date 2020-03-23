@@ -4,7 +4,7 @@
  */
 ?>
 <body class="focusline" id="about" style="background-color:#135!important;">
-    <div id="space" style="position:fixed!important;opacity:.2!important"></div>
+    <!--<div id="space" style="position:absolute!important;opacity:.2!important"></div>-->
     <canvas id="canvas" class="canvas mainframe"></canvas>
     <section class="menu cid-rSStChc5wC" once="menu" id="menu1-1">
         <nav class="navbar navbar-expand beta-menu navbar-dropdown align-items-center navbar-fixed-top navbar-toggleable-sm">

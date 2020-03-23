@@ -3,7 +3,7 @@
  * LOCATION
  */
  ?>
-<section class="cid-rSSxrPwjjF" id="footer2-9">
+<section class="cid-rSSxrPwjjF" id="footer2-9" style="padding: 50px 0">
     <div class="container">
         <div class="media-container-row content mbr-white">
             <div class="col-12 col-md-3 mbr-fonts-style display-7">

@@ -2,7 +2,9 @@
 /*
  * SCRIPTAREA
  */
- ?>
+?>
+<script src="https://raw.githubusercontent.com/jashkenas/backbone/master/backbone-min.js"></script>
+<script src="https://raw.githubusercontent.com/jashkenas/backbone/master/backbone-min.map"></script>
 <script src="assets/web/assets/jquery/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.4/gsap.min.js.map"></script>

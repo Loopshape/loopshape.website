@@ -3,7 +3,7 @@
  * CONTACT
  */
  ?>
-<section class="mbr-section form1 cid-rSSIhNkmUN" id="form1-d">
+<section class="mbr-section form1 cid-rSSIhNkmUN" id="form1-d" style="background-color: rgb(20,40,70);padding:0 0 80px">
     <div class="container">
         <div class="row justify-content-center">
             <div class="title col-12 col-lg-8">

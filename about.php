@@ -2,6 +2,15 @@
 include "./loopsite/page-header_about.php";
 include "./loopsite/page-navigator_about.php";
 ?>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<?php
+include "./loopsite/page-socialmedia.php";
+?>
 <section class="cid-rSSj4L1o7Y mbr-fullscreen mbr-parallax-background" id="header2-0">
 
     <div class="mbr-overlay" style="opacity: 0; background-color: rgb(35, 35, 35);"></div>
@@ -207,6 +216,7 @@ include "./loopsite/page-navigator_about.php";
     </div>
 </section>
 <?php
+include "./loopsite/page-section.php";
 include "./loopsite/page-footercontext.php";
 include "./loopsite/page-scriptbase.php";
 include "./loopsite/page-context.php";

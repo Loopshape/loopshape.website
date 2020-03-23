@@ -1668,7 +1668,8 @@ html body nav {
     position: fixed!important;
 }
 html body nav,
-html body nav * {
+html body nav *,
+html body a.btn.btn-md {
 -webkit-transition: all 2000ms ease-in-out;
 -moz-transition: all 2000ms ease-in-out;
 -ms-transition: all 2000ms ease-in-out;
@@ -1710,12 +1711,13 @@ html body #cookiesdirective {
 }
 
 html body input#commandline {
-    float: right;
+    text-align: center;
+    float: none;
     font-family: sans-serif!important;
     font-size: 2em!important;
     font-weight: 700!important;
     color: #222!important;
-    background-color: rgba(150,170,190,.7)/*rgba(180,255,180,.7)*/;
+    background-color: rgba(100,175,255,.7);
     position: absolute;
     min-width: 100%;
     height: auto!important;
@@ -1752,7 +1754,27 @@ html body #sololearn {
     opacity: .4!important;
 }
 
-html body .btn {
--webkit-border-radius: 30px 30px 30px 30px!important;
-border-radius: 30px 30px 30px 30px!important;
+html body .btn,
+html body .container img {
+-webkit-border-radius: 30px!important;
+border-radius: 30px!important;
+}
+
+html body > section {
+    box-shadow: 0 0 20px #000 inset;
+}
+html body section {
+-webkit-border-radius: 0!important;
+border-radius: 0!important;
+}
+
+html body a.btn.btn-md {
+box-shadow: 0 0 20px #000!important;
+}
+html body a.btn.btn-md:hover {
+    background-color: #4c4!important;
+}
+
+html body .container img {
+box-shadow: 0 0 40px #1f1!important;
 }

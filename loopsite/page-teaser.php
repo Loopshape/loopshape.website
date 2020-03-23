@@ -2,13 +2,7 @@
 /*
  * TEASER
  */
-$request = " |";
-$connect = " +";
-$volt = ": - :";
-$ampere = ": + :";
-$location = new DateTime();
 ?>
-<input type="text" id="commandline" class="inputfield">
 <section class="cid-rSSj4L1o7Y mbr-fullscreen mbr-parallax-background" id="header2-0" style="margin-bottom:0px!important">
     <div class="mbr-overlay" style="opacity: 0; background-color: rgb(35, 35, 35);"></div>
     <div class="container align-center">
@@ -20,7 +14,7 @@ $location = new DateTime();
                 <br>
                 <img src="/assets/images/AW100.Website.Logo.v1.01a.png" class="imagecenter" id="awlogo"></h1>
                 <h3 class="mbr-section-subtitle align-center mbr-light pb-3 mbr-fonts-style display-2"><strong> The Energy of Loopshape</strong><strong> </strong></h3>
-                <input type="text" id="commandline" class="writearea cmd" value="<?php echo $connect; echo $request ?> : ■ : | <?php echo $location->format("Y-m-d\TH:i:s.u") ?> | <?php echo $volt; echo $request ?>">
+                <input type="text" id="commandline" class="writearea cmd" value="">
                 <br>
                 <br>
                 <br>
@@ -37,8 +31,9 @@ $location = new DateTime();
                 </p>
             </div>
         </div>
-        <p id="sololearn">
-            Sololearn Windows [Version 10.0.14393]<br>
+        <p id="sololearn" style="display:none">
+            Sololearn Windows [Version 10.0.14393]
+            <br>
             (c) 2017 Sololearn Corporation. All rights reserved.
         </p>
     </div>
